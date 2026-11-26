@@ -1,0 +1,28 @@
+{
+  "deals": [
+    {
+      "id": "amazon-coupon",
+      "shop": "amazon",
+      "title": "Amazonのクーポン",
+      "detail": "食品・日用品のクーポンを、まとめて見られます",
+      "url": "https://www.amazon.co.jp/coupons",
+      "categories": ["food", "daily"]
+    },
+    {
+      "id": "rakuten-coupon",
+      "shop": "rakuten",
+      "title": "楽天市場のクーポン",
+      "detail": "いま使えるクーポンの一覧",
+      "url": "https://coupon.rakuten.co.jp/",
+      "categories": ["daily", "hobby", "other"]
+    },
+    {
+      "id": "amazon-subscribe",
+      "shop": "amazon",
+      "title": "Amazon 定期おトク便",
+      "detail": "毎月買う日用品を、割り引きで定期的に",
+      "url": "https://www.amazon.co.jp/s?k=%E5%AE%9A%E6%9C%9F%E3%81%8A%E3%83%88%E3%82%AF%E4%BE%BF",
+      "categories": ["daily", "food"]
+    }
+  ]
+}
